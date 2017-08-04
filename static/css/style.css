@@ -1,15 +1,3 @@
- @font-face {
-    font-family: beirut;
-    src: url('/static/fonts/Mj_Beirut-Heading.ttf');
-}
-
-
- @font-face {
-    font-family: sahel;
-    src: url('/static/fonts/Sahel.ttf');
-}
-
-
  html, body, .container-table {
  	font-family: sahel, tahoma, sans;
     height: 100%;
