@@ -1,0 +1,2 @@
+# pahlavi
+Farsi Pahlavi dictionary
