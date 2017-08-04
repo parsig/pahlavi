@@ -1,0 +1,71 @@
+ @font-face {
+    font-family: beirut;
+    src: url('/static/fonts/Mj_Beirut-Heading.ttf');
+}
+
+
+ @font-face {
+    font-family: sahel;
+    src: url('/static/fonts/Sahel.ttf');
+}
+
+
+ html, body, .container-table {
+ 	font-family: sahel, tahoma, sans;
+    height: 100%;
+}
+.container-table {
+    display: table;
+}
+.vertical-center-row {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+body {
+direction: rtl;
+text-align: rtl;
+
+}
+
+.bala{
+	text-align: center;
+}
+
+ 
+ 
+.mylogo  {
+	width: 150px;
+	text-align: left !important;
+}
+h1, h4 {
+	color: #08aede;
+	font-family: beirut, tahoma;
+}
+.results {
+	font-family: sahel, tahoma, sans;
+}
+
+.search-bar {
+	font-family: sahel, tahoma, sans;
+}
+
+.large-text{
+	padding: 20px;
+}
+
+.naw {
+       height: auto;
+        background: #fff;
+        width: 100%;
+        text-align: center;
+        ul {
+            text-align: center;
+            display: inline-block;
+            position: relative;
+}
+
+.share-links {      
+ float: left;
+}
